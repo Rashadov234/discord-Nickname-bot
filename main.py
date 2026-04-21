@@ -15,9 +15,9 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 # Map alliance role names to tags
 # CUSTOMIZE THIS WITH YOUR ALLIANCE NAMES AND TAGS
 ALLIANCE_TAGS = {
-    "249": "[RoK]",
-    "259": "[E84]",
-    "260": "[LOK]",
+    "RoK": "[RoK]",
+    "E84": "[E84]",
+    "LOK": "[LOK]",
     # Add more alliances as needed
 }
 
